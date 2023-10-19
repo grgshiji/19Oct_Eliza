@@ -1,0 +1,16 @@
+{
+  "name": "19Oct_Eliza",
+  "type": "package",
+  "blockId": "leua8BnnO-Ij8J0TWh7rV",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_19Oct_Eliza"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
